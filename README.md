@@ -8,14 +8,25 @@ My name is Andrew Lemons. I am a student, computer programmer, musician, and so 
 
 ## Experience
 
+### Tools
+- VS Code
+- Parcel
+- Webpack
+- Prettier
+
 ### Frontend
 - Javascript
+  - Axios
 - HTML
 - CSS
+  - Bulma
+  - Tailwind
 - Vue
+  - Router
 
 ### Backend
 - NodeJS
 - Express
-- PostgreSQL
-- MySQL
+- Fastify
+- Prisma
+- SQL
