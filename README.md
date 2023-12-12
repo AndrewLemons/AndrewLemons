@@ -5,17 +5,17 @@ My name is Andrew Lemons. I am a student, computer programmer, musician, and so 
 ## Experience
 
 ### Tools
-- GitHub (Git)
-- VS Code
+- Vite
 - Webpack
+- VS Code
+- Git
 
 ### Frontend
 - Vue
   - Vue Router
-  - VueX
-- Javascript
+  - Pinia / VueX
+- Javascript / Typescript
   - Axios
-- HTML
 - CSS
   - Bulma
   - Tailwind
@@ -25,6 +25,8 @@ My name is Andrew Lemons. I am a student, computer programmer, musician, and so 
 - NodeJS
   - Express
   - Fastify
+- Python
+  - Flask
 - PHP
 - SQL
   - PostreSQL
