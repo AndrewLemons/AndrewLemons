@@ -1,33 +1,45 @@
 # Hey there!
 
-My name is Andrew Lemons. I am a student, computer programmer, musician, and so much more.
+My name is Andrew Lemons. I am a student, computer programmer, engineer, musician, and so much more.
 
 ## Experience
 
-### Tools
-- Vite
-- Webpack
-- VS Code
-- Git
+### Languages
+- Typescript / Javascript
+- Rust
+- Swift
+- Java
+- 🚧 C++
 
-### Frontend
+### Web
 - Vue
   - Vue Router
   - Pinia / VueX
-- Javascript / Typescript
-  - Axios
-- CSS
-  - Bulma
-  - Tailwind
-  - Bootstrap
+  - Element Plus
+- Tailwind
+- Bootstrap
 
-### Backend
+### Server
 - NodeJS
   - Express
   - Fastify
 - Python
-  - Flask
-- PHP
+  - 🚧 Flask
+- 🚧 PHP
 - SQL
   - PostreSQL
-  - MySQL
+  - 🚧 MySQL
+  - SQLite3
+
+### Mobile
+- React Native
+- Swift UI
+
+### Tools
+- Vite
+- Git
+- Docker
+- VS Code
+- XCode
+
+> 🚧 - I'm learning, or a bit rusty
